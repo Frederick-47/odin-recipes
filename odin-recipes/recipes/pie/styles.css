@@ -1,0 +1,24 @@
+main {
+    width: 700px;
+    height: 700px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+
+}
+
+main div {
+    width: 400px;
+    height: 700px;
+}
+
+main div img {
+    width: 400px;
+    height: 400px;
+
+}
+
+.parragraph {
+    width: 700px;
+    height: 500;
+}
